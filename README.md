@@ -1,5 +1,4 @@
 # My Portfolio - Enrique Castro
-# My Portfolio
 
 Welcome to my portfolio repository! This serves as a central hub linking all my projects across different domains like **DevOps, Web Servers, Automation, and Security**. Each project includes a detailed README with setup instructions and technologies used.
 
