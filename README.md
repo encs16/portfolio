@@ -5,7 +5,10 @@ Welcome to my portfolio repository! This serves as a central hub linking all my 
 ## 📂 **Projects Overview**
 
 ### 🔧 DevOps & Automation
-
+- **[Price Tracker](https://github.com/encs16/steamTestPriceTracker)**  
+  _Automated pipeline using GitHub Actions to scrape Steam API, track price changes, and send updates to Discord._  
+  **Tech:** Python, GitHub Actions, Bash, REST API, JSON
+  
 ### 🌐 Web Servers & Infrastructure
 
 ### 🛠️ System Administration & Cloud
